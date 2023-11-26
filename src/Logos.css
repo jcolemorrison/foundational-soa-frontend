@@ -1,0 +1,15 @@
+.logos-container {
+  width: 40%;
+}
+.logos-container ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(30px, 1fr));
+  gap: 20px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.logo-item {
+  width: 100%;
+}

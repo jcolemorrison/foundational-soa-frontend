@@ -1,0 +1,42 @@
+.upstream {
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  margin: 5px;
+  margin-top: 1rem;
+  padding: 1rem;
+  overflow: hidden;
+  transition: all .4s ease;
+}
+
+
+.upstream:has(> .upstream-nested-header):hover {
+  border-color: #844FBA;
+  padding-left: 2rem;
+  transition: all .4s ease;
+}
+
+.upstream-header,
+.upstream-nested-header {
+  display: flex;
+  align-items: center;
+}
+
+.upstream-container h2,
+.upstream-container h3 {
+  margin-left: 0.5rem;
+}
+
+.upstream-container h3 {
+  margin: 0;
+  margin-left: 0.5rem;
+}
+
+.upstream-container pre {
+  margin: 0;
+  margin-top: 1em;
+}
+
+.upstream-container .hashicon {
+  width: 20px;
+  height: 20px;
+  margin-right: 0;
+}

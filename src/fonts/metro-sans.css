@@ -1,0 +1,59 @@
+@font-face {
+  font-family: 'MetroSansBoldItalic';
+  src: url('./Metro-Sans-Bold-Italic.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'MetroSansBold';
+  src: url('./Metro-Sans-Bold.otf') format('opentype');
+}
+
+/* @font-face {
+  font-family: 'MetroSansBookItalic';
+  src: url('./Metro-Sans-Book-Italic.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'MetroSansBook';
+  src: url('./Metro-Sans-Book.otf') format('opentype');
+} */
+
+@font-face {
+  font-family: 'MetroSansLightItalic';
+  src: url('./Metro-Sans-Light-Italic.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'MetroSansLight';
+  src: url('./Metro-Sans-Light.otf') format('opentype');
+}
+
+/* @font-face {
+  font-family: 'MetroSansMediumItalic';
+  src: url('./Metro-Sans-Medium-Italic.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'MetroSansMedium';
+  src: url('./Metro-Sans-Medium.otf') format('opentype');
+} */
+
+@font-face {
+  font-family: 'MetroSansRegularItalic';
+  src: url('./Metro-Sans-Regular-Italic.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'MetroSansRegular';
+  src: url('./Metro-Sans-Regular.otf') format('opentype');
+}
+
+/* @font-face {
+  font-family: 'MetroSansSemiBoldItalic';
+  src: url('./Metro-Sans-Semi-Bold-Italic.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'MetroSansSemiBold';
+  src: url('./Metro-Sans-Semi-Bold.otf') format('opentype');
+} */

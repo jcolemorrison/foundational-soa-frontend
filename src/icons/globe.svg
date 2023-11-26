@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>globe</title>
+    <g id="globe" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g transform="translate(1, 1)" stroke="#FFFFFF" stroke-width="1.5">
+            <circle id="Oval" cx="10" cy="10" r="10"></circle>
+            <line x1="0" y1="10" x2="20" y2="10" id="Path"></line>
+            <path d="M10,0 C12.499713,2.73933605 13.9209397,6.29240286 14,10 C13.9209397,13.7075971 12.499713,17.260664 10,20 C7.500287,17.260664 6.07906027,13.7075971 6,10 C6.07906027,6.29240286 7.500287,2.73933605 10,0 L10,0 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,4 @@
+.game-container {
+  overflow: scroll;
+  padding: 4vmin;
+}
